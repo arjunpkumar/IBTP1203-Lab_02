@@ -1,10 +1,3 @@
-//
-//  README.md
-//  DashboardApp
-//
-//  Created by thinkpalm on 22/10/26.
-//
-
 # Responsive Data-Driven Dashboard
 
 A modern, production-grade SwiftUI dashboard application built using Swift concurrency (`async/await`) and the `@Observable` macro. It consumes the public JSONPlaceholder API and features an adaptive multi-device layout that scales seamlessly from iPhone to iPad simulators.
