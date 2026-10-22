@@ -1,4 +1,4 @@
-# Responsive Data-Driven Dashboard
+# Responsive Data-Driven Dashboard App
 
 A modern, production-grade SwiftUI dashboard application built using Swift concurrency (`async/await`) and the `@Observable` macro. It consumes the public JSONPlaceholder API and features an adaptive multi-device layout that scales seamlessly from iPhone to iPad simulators.
 
