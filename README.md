@@ -133,8 +133,8 @@ ScrollView {
 
 ### iPhone View (Single Column Profile)
 *This screenshot demonstrates the layout automatically stacking items vertically on narrower screen profiles.*
-![iPhone Dashboard](screenshots/iphone_dashboard.png)
+![iPhone Dashboard](Screenshots/iphone_dashboard.png)
 
 ### iPad View (Multi-Column Grid Profile)
 *This screenshot demonstrates the grid dynamically expanding to utilize wider screen estates on tablet profiles.*
-![iPad Dashboard](screenshots/ipad_dashboard.png)
+![iPad Dashboard](Screenshots/ipad_dashboard.png)
