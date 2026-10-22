@@ -1,0 +1,34 @@
+# Xcode
+#
+build/
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/
+.DS_Store
+DerivedData/
+*.hmap
+*.xccheckout
+*.xcscmblueprint
+
+# Swift Package Manager
+#
+.swiftpm/
+.build/
+
+# IDE / User-specific
+#
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+#
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
